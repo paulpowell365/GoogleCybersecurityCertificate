@@ -8,9 +8,9 @@ This project is a showcase of my journey into the world of Cybersecurity and the
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
+- <b>Linux Command Line</b> 
+- <b>SQL</b>
+- <b>Python</b>
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
