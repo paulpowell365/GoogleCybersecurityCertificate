@@ -1,9 +1,8 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>JGoogle Cybersecurity Certificate Project</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project is a showcase of my journey into the world of Cybersecurity and the skills I have gained through the Google Cybersecurity Certificate Program. The project will demonstrate my understanding of the core Cybersecurity concepts and my skills with various security trade tools. 
 <br />
 
 
