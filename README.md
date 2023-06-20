@@ -1,4 +1,4 @@
-<h1>JGoogle Cybersecurity Certificate Project</h1>
+<h1>Google Cybersecurity Certificate Project</h1>
 
 
 <h2>Description</h2>
