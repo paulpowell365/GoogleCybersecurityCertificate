@@ -19,6 +19,7 @@ This project is a showcase of my journey into the world of Cybersecurity and the
 <b>The following is an internal security audit that was conducted on a fictional organization by the name of Botium Toys.Audits help ensure that security checks are made, to monitor for threats, risks, or vulnerabilities that can affect an organization’s business continuity and critical assets.</b>
 <p align="center">
 Launch the utility: <br/>
+ Compliance Checklist 1.png
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
